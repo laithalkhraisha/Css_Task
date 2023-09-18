@@ -1,0 +1,16 @@
+h1{
+    text-decoration: underline;
+
+}
+a{
+    -webkit-text-fill-color: #f4f41b;
+}
+.red{
+    -webkit-text-fill-color: #f31212;
+}
+.blue{
+    color: blue;
+}
+.brawn{
+    -webkit-text-fill-color: #ab6d00;
+}
